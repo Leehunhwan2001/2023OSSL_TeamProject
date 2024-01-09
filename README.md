@@ -26,5 +26,5 @@
  - Repo owner
  - 부가 기능 구현
  - 전반적인 코드 관리
-![Uploading Screen Shot 2023-12-29 at 5.38.09 PM.png…![Screen Shot 2023-12-29 at 5 38 09 PM](https://github.com/Leehunhwan2001/2023OSSL_TeamProject/assets/126431961/dcd9afe9-c280-4b42-8354-6b4d68bf4d9b)
+(https://github.com/Leehunhwan2001/2023OSSL_TeamProject/assets/126431961/dcd9afe9-c280-4b42-8354-6b4d68bf4d9b)
 ]()
